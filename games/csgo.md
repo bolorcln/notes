@@ -1,5 +1,8 @@
 # CSGO Related stuffs
 
+## Steam User Id
+1041635927
+
 ## Servers
 
 [xplay](https://xplay.gg)
